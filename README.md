@@ -1,6 +1,6 @@
-# petahcole.com#
+# petahcole.com
 
-#This is ye olde personal site. It's a React/Redux job with a touch of Bootstrap and custom CSS.#
+# This is ye olde personal site. It's a React/Redux job with a touch of Bootstrap and custom CSS.
 
 Now I know what you're thinking, "React/Redux for a personal site?! Can you say heavy-handed?"
 
